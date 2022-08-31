@@ -1,0 +1,47 @@
+#convert {
+    background-color:orange;
+   
+  }
+  #convert:hover {
+    background-color: blue;
+  }
+  h1 {
+    
+    color:black;
+    
+  }
+  input {
+    display: block;
+    padding: 10px;
+    margin-top: 10px;
+    font-size: 2em;
+    color: #a05b1a;
+    font-family: cursive, sans-serif;
+  }
+  ::-webkit-input-placeholder {
+     color: #ccc;
+  }
+  :-moz-placeholder { /* Firefox 18- */
+     color: #ccc;  
+  }
+  ::-moz-placeholder {  /* Firefox 19+ */
+     color: #ccc;  
+  }
+  :-ms-input-placeholder {  
+     color: #ccc;  
+  }
+  button {
+    padding: 10px;
+    font-size: 1.2em;
+    color: #545454;
+  }
+  body{
+    
+    background-image: url("download.jpg");
+  
+    
+    height: 100%;
+
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
